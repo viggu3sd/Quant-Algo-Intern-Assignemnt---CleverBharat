@@ -1,4 +1,4 @@
-# Quant-Algo-Intern-Assignemnt---CleverBharat
+# Quant-Algo-Intern-Assignemnt--CleverBharat
 
 Here’s a **README.md** file for your project based on the provided details:
 
